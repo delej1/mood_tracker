@@ -49,7 +49,7 @@ No images, emoji, or icon fonts. Each mood differs through:
 ## Getting started
 
 **Live demo:** https://mood-tracker-2dac9.web.app 
-**Loom walkthrough:** https://loom.com/share/...
+**Loom walkthrough:** https://www.loom.com/share/184fbeba5a6044ba8466e9b992feade2
 
 ## Running tests
 
